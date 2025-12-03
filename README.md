@@ -468,10 +468,6 @@ Component tests for calculator functionality.
 
 MIT License - Feel free to use this for learning or portfolio purposes.
 
-## 👨‍💻 Author
-
-Built with ❤️ as a technical assessment demonstrating full-stack engineering capabilities.
-
 ---
 
 ## 🎯 Assessment Criteria Met
