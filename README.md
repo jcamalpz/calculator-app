@@ -63,7 +63,7 @@ calculator-app/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/jcamalpz/calculator-app.git
 cd calculator-app
 
 # Start both services
